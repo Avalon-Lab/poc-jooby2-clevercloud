@@ -1,0 +1,6 @@
+app\Controller.class
+META-INF\services\io.jooby.MvcFactory
+app\App.class
+app\Controller$Module.class
+app\Controller$Factory.class
+app\Controller$GET.class

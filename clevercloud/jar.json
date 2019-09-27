@@ -1,0 +1,9 @@
+{
+  "build": {
+    "type": "maven",
+    "goal": "clean package"
+  },
+  "deploy": {
+    "jarName": "./target/myapp-1.0.0.jar"
+  }
+}
